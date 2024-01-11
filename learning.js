@@ -41,3 +41,14 @@ console.log(object1.hasOwnProperty('property1')); // true
 */
 
 
+
+//RANDOM GENERATION
+/*
+function getRndInteger(min, max) {
+    return Math.floor(Math.random() * (max - min) ) + min;
+  }
+
+
+let calc = getRndInteger(3, 8)
+  console.log(calc);
+  */

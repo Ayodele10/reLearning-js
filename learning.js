@@ -52,3 +52,35 @@ function getRndInteger(min, max) {
 let calc = getRndInteger(3, 8)
   console.log(calc);
   */
+
+
+//HOW TO BASICALLY USE AN CLASS CONSTRUCTOR
+/*class Person {
+  constructor(name, age, ) {
+    this.name = name;
+    this.age = age;
+  }
+  description() {
+
+    console.log(`my name is ${this.name},
+    I am ${this.age} years old!!`)
+
+  }
+}
+
+
+const Person1 = new Person("JB", 18)
+console.log(Person1.description());
+*/
+
+
+
+
+
+
+
+
+
+
+
+

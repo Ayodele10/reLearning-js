@@ -45,16 +45,14 @@ console.log(object1.hasOwnProperty('property1')); // true
 //RANDOM GENERATION
 /*
 function getRndInteger(min, max) {
-    return Math.floor(Math.random() * (max - min) ) + min;
-  }
-
+    return Math.floor(Math.random() * (max - min) ) + m
 
 let calc = getRndInteger(3, 8)
   console.log(calc);
   */
 
 
-//HOW TO BASICALLY USE AN CLASS CONSTRUCTOR
+//HOW TO BASICALLY USE A CLASS CONSTRUCTOR
 /*class Person {
   constructor(name, age, ) {
     this.name = name;
@@ -68,19 +66,9 @@ let calc = getRndInteger(3, 8)
   }
 }
 
-
 const Person1 = new Person("JB", 18)
 console.log(Person1.description());
 */
-
-
-
-
-
-
-
-
-
 
 
 

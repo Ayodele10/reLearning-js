@@ -38,5 +38,47 @@ li a:hover{
 .active {
     background-color: #04AA6D;
     color: white;
-  } 
+  }
+  
   */
+
+
+
+
+  
+/* VERTICAL NAV BAR */
+/* * {
+    margin: 0;
+    padding: 0;
+}
+
+ul {
+    background-color: #484848;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    overflow: hidden;
+    height: 50px;
+    position: sticky;
+    top: 0px;
+    width: 100%;
+    border: 2px solid #fff;
+}
+
+li {
+    display: inline;
+}
+
+li a {
+    text-decoration: none;
+    color: white;
+    padding: 3rem;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 50px;
+}
+
+li a:hover {
+    background-color: #111;
+
+} */

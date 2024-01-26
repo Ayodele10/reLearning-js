@@ -42,13 +42,14 @@ console.log(object1.hasOwnProperty('property1')); // true
 
 
 
-//RANDOM GENERATION
+//RANDOM NUMBER GENERATION
 /*
 function getRndInteger(min, max) {
-    return Math.floor(Math.random() * (max - min) ) + m
-
+    return Math.floor(Math.random() * (max - min) ) + max
+}
 let calc = getRndInteger(3, 8)
   console.log(calc);
+
   */
 
 
@@ -70,5 +71,16 @@ const Person1 = new Person("JB", 18)
 console.log(Person1.description());
 */
 
+
+
+// JSON conversion
+
+// JavaScript has a built in function for converting JSON strings into JavaScript objects:
+
+// JSON.parse()
+
+// JavaScript also has a built in function for converting an object into a JSON string:
+
+// JSON.stringify()
 
 
